@@ -1,0 +1,4 @@
+node_modules
+tmp/*.txt
+tmp-sorted/*.txt
+dummies/*.txt
