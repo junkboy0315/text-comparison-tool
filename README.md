@@ -2,9 +2,11 @@
 
 this is my private tool
 
-- Quick Sort
-- Minimum Heap Tree
-- Multiway(k-Way) Merging
+- Multiway merging
+  - Quick sort
+  - Minimum heap tree
+- Count line numbers
+- Read partial lines of the file
 
 ## how
 
